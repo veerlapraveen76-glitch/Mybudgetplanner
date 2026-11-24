@@ -1,0 +1,7 @@
+node_modules/
+dist/
+dist-react/
+.vscode/backend/node_modules/
+.vscode/backend/.env
+.vscode/backend/data.local.json
+.vscode/backend/data.local.json.tmp
